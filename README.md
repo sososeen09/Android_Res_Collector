@@ -10,7 +10,7 @@
 - [MDCC 2016 Android Session](https://github.com/MDCC2016/Android-Session-Slides)
 
 ## 文章收集
-- 安卓架构文章合集（a collection of android Architecture [AndroidArchitectureCollection github地址](https://github.com/CameloeAnthony/AndroidArchitectureCollection) 
+- [安卓架构文章合集 CameloeAnthony/AndroidArchitectureCollection](https://github.com/CameloeAnthony/AndroidArchitectureCollection) 
 - [Android 学习资料收集 Freelander/Android_Data](https://github.com/Freelander/Android_Data)
 - [RxJava学习资料 lzyzsd/Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)
 - [Android 开源项目分类汇总 Trinea/android-open-project](https://github.com/Trinea/android-open-project)
