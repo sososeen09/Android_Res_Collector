@@ -1,0 +1,2 @@
+# Android_Res_Collector
+收集Android开发相关的优秀资源
