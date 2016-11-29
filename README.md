@@ -8,6 +8,11 @@
 - [Android 开源项目分类汇总 Trinea/android-open-project](https://github.com/Trinea/android-open-project)
 - [Android面试相关知识点 GeniusVJR/LearningNotes](https://github.com/GeniusVJR/LearningNotes)
 
+## MVP
+- [Android MVP 详解（上）](http://www.jianshu.com/p/9a6845b26856)
+- [Android MVP 详解（下）](http://www.jianshu.com/p/0590f530c617)
+
+
 ## View相关
 ### RecyclerView
 - [RecyclerView侧滑菜单，滑动删除，长按拖拽，下拉刷新上拉加载](http://blog.csdn.net/yanzhenjie1003/article/details/52115566)
