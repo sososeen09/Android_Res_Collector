@@ -12,6 +12,8 @@
 - [Android MVP 详解（上）](http://www.jianshu.com/p/9a6845b26856)
 - [Android MVP 详解（下）](http://www.jianshu.com/p/0590f530c617)
 
+## OKHttp
+- [OKHTTP之缓存配置详解](http://blog.csdn.net/briblue/article/details/52920531)
 
 ## View相关
 ### RecyclerView
