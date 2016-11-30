@@ -29,6 +29,9 @@
 - [RecyclerView侧滑菜单，滑动删除，长按拖拽，下拉刷新上拉加载](http://blog.csdn.net/yanzhenjie1003/article/details/52115566)
 - [RecyclerView优秀文集](https://github.com/CymChad/CymChad.github.io)
 
+## 消息机制
+- [Android源码分析之消息机制Handler](http://www.jianshu.com/p/d15a57287b20)
+
 
 ## 设计模式
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)
