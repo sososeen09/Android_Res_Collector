@@ -21,6 +21,9 @@
 - [拆轮子系列：拆 OkHttp](http://blog.piasy.com/2016/07/11/Understand-OkHttp/)
 - [OKHTTP之缓存配置详解](http://blog.csdn.net/briblue/article/details/52920531)
 
+## dagger2
+- [都是套路——Dagger2没有想象的那么难](http://www.jianshu.com/p/47c7306b2994)
+
 ## View相关
 ### RecyclerView
 - [RecyclerView侧滑菜单，滑动删除，长按拖拽，下拉刷新上拉加载](http://blog.csdn.net/yanzhenjie1003/article/details/52115566)
