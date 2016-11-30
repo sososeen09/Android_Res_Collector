@@ -33,6 +33,7 @@
 - [Android源码分析之消息机制Handler](http://www.jianshu.com/p/d15a57287b20)
 
 
+
 ## 设计模式
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)
 - [Software design pattern on android](http://www.slideshare.net/PedroVicenteGmezSnch/software-design-patterns-on-android)（安卓中的设计模式，英文ppt）
