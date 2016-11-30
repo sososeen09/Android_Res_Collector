@@ -13,6 +13,12 @@
 - [Android MVP 详解（下）](http://www.jianshu.com/p/0590f530c617)
 
 ## OKHttp
+
+- [重识OkHttp——更深入了解如何使用](http://www.jianshu.com/p/c70d0ce5400c)
+- [重识OkHttp——探究源码设计](http://www.jianshu.com/p/c58fd0a78791)
+- [OkHttp官方Wiki文档](https://github.com/square/okhttp/wiki)
+- [从OKHttp框架看代码设计](http://gold.xitu.io/post/581311cabf22ec0068826aff)
+- [拆轮子系列：拆 OkHttp](http://blog.piasy.com/2016/07/11/Understand-OkHttp/)
 - [OKHTTP之缓存配置详解](http://blog.csdn.net/briblue/article/details/52920531)
 
 ## View相关
