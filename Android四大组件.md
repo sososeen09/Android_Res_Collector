@@ -26,6 +26,7 @@
 
 一个Service可以被多个客户进行绑定，只有所有的对象都执行了  unbindService() 方法后该 Service 才会销毁,不过如果有一个客户执行了 startService() 方法,那么这个时候如果所有的绑定客户都执行了 unbindService()该 Service 也不会 销毁。
 
+![Service生命周期图](https://github.com/sososeen09/Android_Res_Collector/blob/master/Service%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E5%9B%BE.png)
 
 
 ## 2.1 StartService/stopService
