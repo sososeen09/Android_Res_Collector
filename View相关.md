@@ -15,6 +15,8 @@
 ### RecyclerView
 - [RecyclerView侧滑菜单，滑动删除，长按拖拽，下拉刷新上拉加载](http://blog.csdn.net/yanzhenjie1003/article/details/52115566)
 - [RecyclerView优秀文集](https://github.com/CymChad/CymChad.github.io)
+- [使用ItemTouchHelper高效地实现 今日头条 、网易新闻 的频道排序、移动](http://www.jianshu.com/p/d30fd8da4eac)
+
 
 ### ViewDragHelper
 1. [每一个导航后面都隐藏着ViewDragHelper](http://flavienlaurent.com/blog/2013/08/28/each-navigation-drawer-hides-a-viewdraghelper/)
