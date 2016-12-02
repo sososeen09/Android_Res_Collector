@@ -24,6 +24,7 @@ Service在后台长期运行的组件，通过Service可以实现跨进程通讯
 第一次调用的时候，
 
 - **onCreate()**
+- **onBind()**
 - **onUnbind()**
 - **onDestroy()**
 
