@@ -18,7 +18,7 @@
 ## MVP
 - [Android MVP 详解（上）](http://www.jianshu.com/p/9a6845b26856)
 - [Android MVP 详解（下）](http://www.jianshu.com/p/0590f530c617)
-
+- [MVP快速开发框架](http://www.jianshu.com/p/d98013e0cd03)
 
 ## 网络
 - [TCP/IP 协议](https://gold.xitu.io/entry/57a2b0742e958a006679dae0)
@@ -64,6 +64,10 @@
 ## 工具
 - [qinci/MarkdownEditors](https://github.com/qinci/MarkdownEditors)
 - [Blankj/AndroidUtilCode Android中常用的Utils工具类](https://github.com/Blankj/AndroidUtilCode)
+
+
+## UI
+- [一套精致的 Material Design 风格 UI 套件](https://gold.xitu.io/entry/5840c79d128fe10057676a84)
 
 ## Slide
 - [MDCC 2016 Android Session](https://github.com/MDCC2016/Android-Session-Slides)
