@@ -6,12 +6,15 @@
 - [Android 学习资料收集 Freelander/Android_Data](https://github.com/Freelander/Android_Data)
 - [RxJava学习资料 lzyzsd/Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)
 - [Android 开源项目分类汇总 Trinea/android-open-project](https://github.com/Trinea/android-open-project)
-- [Android面试相关知识点 GeniusVJR/LearningNotes](https://github.com/GeniusVJR/LearningNotes)
 - [View相关](https://github.com/sososeen09/Android_Res_Collector/blob/master/View%E7%9B%B8%E5%85%B3.md)
 - [Android四大组件](https://github.com/sososeen09/Android_Res_Collector/blob/master/Android%E5%9B%9B%E5%A4%A7%E7%BB%84%E4%BB%B6.md)
 
-
-
+## 面试文章收集
+- [Android面试相关知识点 GeniusVJR/LearningNotes](https://github.com/GeniusVJR/LearningNotes)
+- [亲爱的面试官，这个我可没看过！（Android部分）](http://www.jianshu.com/p/89f19d67b348)
+- [Android 面试重难点](https://gold.xitu.io/entry/57466b5e71cfe40068cd862a)
+- [史上最全 Android 面试资料集合](http://www.jianshu.com/p/d1efe2f31b6d)
+- [40 个 Android 面试题](https://gold.xitu.io/entry/57aad0728ac247005f4cfa81)
 ## MVP
 - [Android MVP 详解（上）](http://www.jianshu.com/p/9a6845b26856)
 - [Android MVP 详解（下）](http://www.jianshu.com/p/0590f530c617)
