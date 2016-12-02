@@ -8,6 +8,7 @@
 - [Android 开源项目分类汇总 Trinea/android-open-project](https://github.com/Trinea/android-open-project)
 - [Android面试相关知识点 GeniusVJR/LearningNotes](https://github.com/GeniusVJR/LearningNotes)
 - [View相关](https://github.com/sososeen09/Android_Res_Collector/blob/master/View%E7%9B%B8%E5%85%B3.md)
+- [Android四大组件](https://github.com/sososeen09/Android_Res_Collector/blob/master/Android%E5%9B%9B%E5%A4%A7%E7%BB%84%E4%BB%B6.md)
 
 
 ## MVP
