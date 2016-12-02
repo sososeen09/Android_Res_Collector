@@ -11,6 +11,7 @@
 - [Android四大组件](https://github.com/sososeen09/Android_Res_Collector/blob/master/Android%E5%9B%9B%E5%A4%A7%E7%BB%84%E4%BB%B6.md)
 
 
+
 ## MVP
 - [Android MVP 详解（上）](http://www.jianshu.com/p/9a6845b26856)
 - [Android MVP 详解（下）](http://www.jianshu.com/p/0590f530c617)
