@@ -15,10 +15,15 @@
 - [Android 面试重难点](https://gold.xitu.io/entry/57466b5e71cfe40068cd862a)
 - [史上最全 Android 面试资料集合](http://www.jianshu.com/p/d1efe2f31b6d)
 - [40 个 Android 面试题](https://gold.xitu.io/entry/57aad0728ac247005f4cfa81)
+
+## 屏幕适配
+- [Android开发：最全面、最易懂的Android屏幕适配解决方案](http://www.jianshu.com/p/ec5a1a30694b)
+
 ## MVP
 - [Android MVP 详解（上）](http://www.jianshu.com/p/9a6845b26856)
 - [Android MVP 详解（下）](http://www.jianshu.com/p/0590f530c617)
 - [MVP快速开发框架](http://www.jianshu.com/p/d98013e0cd03)
+- [【译】Android开发中的MVP架构](http://www.jianshu.com/p/7567ed0d1853)
 
 ## 网络
 - [TCP/IP 协议](https://gold.xitu.io/entry/57a2b0742e958a006679dae0)
