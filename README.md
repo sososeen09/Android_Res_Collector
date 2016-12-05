@@ -50,6 +50,9 @@
   - [Android消息传递之EventBus 3.0使用详解](http://www.cnblogs.com/whoislcj/p/5595714.html)
   - [Android消息传递之基于RxJava实现一个EventBus - RxBus](http://www.cnblogs.com/whoislcj/p/5816992.html)
 
+## 侧滑
+- [Jude95/SwipeBackHelper](https://github.com/Jude95/SwipeBackHelper)
+- [ikew0ng/SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout)
 
 ## 优化
 - [一些你需要知道的布局优化技巧](http://blog.csdn.net/qq_17766199/article/details/52863741)
@@ -62,8 +65,6 @@
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)
 - [Software design pattern on android](http://www.slideshare.net/PedroVicenteGmezSnch/software-design-patterns-on-android)（安卓中的设计模式，英文ppt）
 - 书籍《Android 源码设计模式解析与实战》
-
-
 
 
 ## 工具
