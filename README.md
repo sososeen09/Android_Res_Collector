@@ -57,6 +57,11 @@
 ## 优化
 - [一些你需要知道的布局优化技巧](http://blog.csdn.net/qq_17766199/article/details/52863741)
 
+
+## 动态代理
+- [java静态代理和动态代理](http://blog.csdn.net/giserstone/article/details/17199755)
+- [Retrofit2源码分析[动态代理]](http://www.jianshu.com/p/a56c61da55dd)
+
 ## WebView
 - [WebView详解与简单实现Android与H5互调](http://blog.csdn.net/qq_24530405/article/details/52067474)
 
