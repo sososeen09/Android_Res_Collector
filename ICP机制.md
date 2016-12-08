@@ -106,6 +106,42 @@ AIDL编译后生成的文件中的一些描述
 
 SharedPreference是一种特例，由于系统对它的读写具有一定的缓存策略，即在内存中会有一份SharedPreference的缓存，因为在多进程模式下有很大几率丢失数据。不建议在进程间通信中使用SharedPreference。
 
+## 使用Messenger
+Messenger可以翻译为信使，顾名思义，可以通过它在不同进程间传递Message对象。
+
+Messenger是一种轻量级的IPC方案，它的底层实现是AIDL。
+
+两种构造方法：
+
+    public Messenger(Handler target) {
+        mTarget = target.getIMessenger();
+    }
+
+    public Messenger(IBinder target) {
+        mTarget = IMessenger.Stub.asInterface(target);
+    }
+
+由于一次处理一个请求，在服务端不需要考虑线程同步的问题，因为服务端不存在并发执行的情况。实现一个Messenger有几个步骤，分为客户端和服务端。
+
+1.**服务端进程**
+
+首先需要再服务端创建一个Service来处理客户端的连接请求，同时创建一个Handler并通过它来创建一个Messenger对象，然后在Service的onBind中返回这个Messenger底层的Binder即可。
+
+2.**客户端进程**
+
+客户端进程中首先绑定服务端的Service，绑定成功后服务端返回的IBinder对象创建一个Messenger，通过这个Messenger就可以向服务端发送消息了。发送类型为Message对象。
+
+如果需要服务端能够回应客户端，就和服务端一样，我们还需要在客户端创建一个Handler，并创建一个新的Messenger，并把这个Messenger对象通过Message的replyTo参数传递给服务端，服务端通过这个relayTo参数就可以回应客户端。
+
+##使用AIDL
+
+## 使用ContentProvider
+
+ContentProvider是Android中提供的专门用于数据共享的组件，天生适合进程间通讯。底层实现也是用的Binder。
+
+## 使用Socket
+
+
 
 
 
