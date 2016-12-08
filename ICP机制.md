@@ -94,6 +94,7 @@ AIDL编译后生成的文件中的一些描述
 - asBinder：返回当前的Binder对象
 - onTransact： 这个方法运行在服务端的Binder线程池中
 
+![](https://github.com/sososeen09/Android_Res_Collector/blob/master/Binder%E6%9C%BA%E5%88%B6.png)
 # Android中的IPC方式
 
 ## 使用Bundle
@@ -132,7 +133,7 @@ Messenger是一种轻量级的IPC方案，它的底层实现是AIDL。
 客户端进程中首先绑定服务端的Service，绑定成功后服务端返回的IBinder对象创建一个Messenger，通过这个Messenger就可以向服务端发送消息了。发送类型为Message对象。
 
 如果需要服务端能够回应客户端，就和服务端一样，我们还需要在客户端创建一个Handler，并创建一个新的Messenger，并把这个Messenger对象通过Message的replyTo参数传递给服务端，服务端通过这个relayTo参数就可以回应客户端。
-
+![](https://github.com/sososeen09/Android_Res_Collector/blob/master/Messenger%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.png)
 ##使用AIDL
 
 ## 使用ContentProvider
