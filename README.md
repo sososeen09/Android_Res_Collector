@@ -15,6 +15,7 @@
 - [Android 面试重难点](https://gold.xitu.io/entry/57466b5e71cfe40068cd862a)
 - [史上最全 Android 面试资料集合](http://www.jianshu.com/p/d1efe2f31b6d)
 - [40 个 Android 面试题](https://gold.xitu.io/entry/57aad0728ac247005f4cfa81)
+- [Android跨进程通信的四种方式](http://blog.csdn.net/sinat_29255093/article/details/51817640)
 
 ## 屏幕适配
 - [Android开发：最全面、最易懂的Android屏幕适配解决方案](http://www.jianshu.com/p/ec5a1a30694b)
