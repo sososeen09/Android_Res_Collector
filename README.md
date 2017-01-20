@@ -8,7 +8,7 @@
 - [Android 开源项目分类汇总 Trinea/android-open-project](https://github.com/Trinea/android-open-project)
 - [View相关](https://github.com/sososeen09/Android_Res_Collector/blob/master/View%E7%9B%B8%E5%85%B3.md)
 - [Android四大组件](https://github.com/sososeen09/Android_Res_Collector/blob/master/Android%E5%9B%9B%E5%A4%A7%E7%BB%84%E4%BB%B6.md)
-- [组件化和插件化文章收集](https://github.com/sososeen09/Android_Res_Collector/blob/master/%E7%BB%84%E4%BB%B6%E5%8C%96%E5%92%8C%E6%8F%92%E4%BB%B6%E5%8C%96)
+- [组件化和插件化文章收集](https://github.com/sososeen09/Android_Res_Collector/blob/master/%E7%BB%84%E4%BB%B6%E5%8C%96%E5%92%8C%E6%8F%92%E4%BB%B6%E5%8C%96.md)
 
 ## 面试文章收集
 - [Android面试相关知识点 GeniusVJR/LearningNotes](https://github.com/GeniusVJR/LearningNotes)
