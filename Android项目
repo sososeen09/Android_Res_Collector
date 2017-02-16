@@ -1,0 +1,4 @@
+# 音视频
+
+-[ListenerMusicPlayer](https://github.com/hefuyicoder/ListenerMusicPlayer)
+一款优雅的遵循Material Design的开源音乐播放器，UI参考腾讯轻听音乐播放器,使用Lastfm Api与酷狗歌词Api。项目架构采用mvp-clean，基于Retrofit2 + Dagger2 + Rxjava + RxBus + Glide。
