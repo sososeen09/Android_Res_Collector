@@ -1,0 +1,1 @@
+- [面Android的时候要想些什么](http://blog.zhuimengfb.com/2017/04/23/%E9%9D%A2Android%E7%9A%84%E6%97%B6%E5%80%99%E8%A6%81%E6%83%B3%E4%BA%9B%E4%BB%80%E4%B9%88/)
