@@ -18,6 +18,7 @@
 - [史上最全 Android 面试资料集合](http://www.jianshu.com/p/d1efe2f31b6d)
 - [40 个 Android 面试题](https://gold.xitu.io/entry/57aad0728ac247005f4cfa81)
 - [Android跨进程通信的四种方式](http://blog.csdn.net/sinat_29255093/article/details/51817640)
+- [Android高新面试题2017汇总（带答案）](https://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=2247484502&idx=1&sn=f4ca9376a5b8a720b186e961ea7192a8&chksm=eb4768c8dc30e1de839c67738c44cccc12c41334155111e18d660f581944dcc780bb03a4875f&mpshare=1&scene=1&srcid=08318RtT1NHV5zNIAS82a3aL&key=198ae112ca2c6d52fd4fb066f6f8235c8740a8f05cbf2e3da380efca3e727c516b99987c7179c3386c7557febb6190189a8811c196f759eb6e857b7450d8f354c0e86e7d45702d4e80d61518b054540c&ascene=0&uin=NDg2NTY1NTYw&devicetype=iMac+Macmini7%2C1+OSX+OSX+10.12.5+build(16F73)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=7YTOpktjoI%2ByZKI%2B8dwCbvuw7BNWw76frGSsC2ec5n1r10YhSi56wBHDyRjwYWjx)
 
 ## 屏幕适配
 - [Android开发：最全面、最易懂的Android屏幕适配解决方案](http://www.jianshu.com/p/ec5a1a30694b)
